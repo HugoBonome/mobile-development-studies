@@ -37,7 +37,7 @@ Para manter tudo organizado, o repositório está dividido em duas pastas princi
 
 ## 👨‍💻 Autor
 
-**[Seu Nome]**
+**Hugo Z. Bonome**
 
 * GitHub: [HugoBonome](https://github.com/HugoBonome)
 * LinkedIn: [Hugo Bonome](https://linkedin.com/in/hugo-bonome)
