@@ -5,7 +5,7 @@ Bem-vindo(a) ao meu repositório de estudos e atividades da disciplina de Dispos
 
 ## 🎯 Sobre o Projeto
 
-Este repositório serve como um portfólio centralizado para os trabalhos práticos da disciplina de **PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS ** no curso de **Análise e Desenvolvimento de Sistemas** do **IFSC - Instituto Federal de Santa Catarina**. O objetivo é aplicar conceitos teóricos em projetos práticos, explorando tanto o desenvolvimento nativo com Kotlin quanto o desenvolvimento híbrido com React Native.
+Este repositório serve como um portfólio centralizado para os trabalhos práticos da disciplina de **PROGRAMAÇÃO PARA APLICATIVOS MÓVEIS** no curso de **Análise e Desenvolvimento de Sistemas** do **IFSC - Instituto Federal de Santa Catarina**. O objetivo é aplicar conceitos teóricos em projetos práticos, explorando tanto o desenvolvimento nativo com Kotlin quanto o desenvolvimento híbrido com React Native.
 
 ---
 
