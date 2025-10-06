@@ -21,14 +21,14 @@ Para manter tudo organizado, o repositório está dividido em duas pastas princi
 ## 🚀 Como Executar um Projeto
 
 ### Projetos Android/Kotlin
-1.  Clone o repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
+1.  Clone o repositório: `git clone https://github.com/HugoBonome/mobile-development-studies.git`
 2.  Navegue até a pasta do projeto desejado.
 3.  Abra a pasta do projeto no **Android Studio**.
 4.  Aguarde o Gradle sincronizar as dependências.
 5.  Execute o aplicativo em um emulador ou dispositivo físico.
 
 ### Projetos React Native
-1.  Clone o repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
+1.  Clone o repositório: `git clone https://github.com/HugoBonome/mobile-development-studies.git`
 2.  Navegue até a pasta do projeto desejado: `cd react-native/nome-do-projeto`
 3.  Instale as dependências: `npm install` 
 4.  Inicie o servidor de desenvolvimento: `npx expo start`
